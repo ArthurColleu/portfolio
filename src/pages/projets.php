@@ -110,6 +110,38 @@
         <img src="../../public/assets/images/Projet_Film/Capture_exemple_détails_film.PNG" style="width: 75% ; height: 75%" alt="Équipements réseau installés"
              class="img-fluid rounded">
     </div>
+    <div>
+        <h2 class="mb-4 text-center">Projet : Gestion de sanction</h2>
+
+        <div class="row mb-4">
+            <div class="col-md-6">
+                <a data-bs-toggle="modal" data-bs-target="#certifCNIL1"><img src="../../public/assets/images/Projet_gestion-sanction/page_accueil_gestion-sanction.png" alt="Plan de la salle réseau" style="width: 100%" class="img-fluid border rounded"></a>
+            </div>
+            <div class="col-md-6">
+                <h2>Objectif du Projet</h2>
+                <p>Le projet consistait en la programmation d'un site web de gestion de sanctions.
+                    L'objectif était de développer diverses fonctionnalités comme la création de compte, la connexion, l'ajout d'élève via un fichier csv.</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Projet Gestion sanctions -->
+    <div class="modal fade" id="certifCNIL1" tabindex="-1">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content ">
+                <div class="modal-header">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+                </div>
+                <div class="modal-body">
+                    <img src="../../public/assets/images/Projet_gestion-sanction/page_accueil_gestion-sanction.png" alt="Plan de la salle réseau" style="width: 100%;height: 100%" class="img-fluid border rounded">
+                </div>
+                <div class="modal-footer">
+                    <p>Le projet consistait en la programmation d'un site web de gestion de sanctions.
+                        L'objectif était de développer diverses fonctionnalités comme la création de compte, la connexion, l'ajout d'élève via un fichier csv.</p>
+                </div>
+            </div>
+        </div>
+    </div>
     <!---<div class="text-center">
         <h2 class="text-center mt-5 mb-3">Projet: Site sur le gestion de sanctions</h2>
         <div class="row ">

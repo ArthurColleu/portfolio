@@ -27,9 +27,11 @@
                 <img src="public/assets/images/Image_autre/arthur_colleu2.png" style="width: 50% ; height: auto" alt="Photo de profil" class="img-fluid rounded-circle">
             </div>
             <div class="col-md-6">
-                Je m'appelle Arthur Colleu et je suis étudiant au Lycée Louis Pergaud à Besançon (25) en deuxième année de BTS SIO (Services Informatiques aux Organisations), spécialité SLAM (Solutions Logiciels et Applications Métiers).
-                Je découvers ma passion pour la programmation informatique lors de mon choix de spécialité en 1ère au lycée.
+                Je m'appelle Arthur Colleu et je suis étudiant au Lycée Louis Pergaud à Besançon (25) en deuxième année
+                de BTS SIO (Services Informatiques aux Organisations), spécialité SLAM (Solutions Logiciels et Applications Métiers).
+                Je découvrais ma passion pour la programmation informatique lors de mon choix de spécialité en 1ère au lycée.
                 Je me suis donc tourné vers cette formation après l'obtention de mon BAC Général - Mention Assez Bien en 2023
+                (<a href="#CV">en savoir plus</a>)
             </div>
             <div></div>
         </div>
@@ -71,7 +73,7 @@
 </section>
 
 <!-- Section CV -->
-<section>
+<section id="CV">
     <div class="container">
         <h1>Arthur Colleu</h1>
         <div class="section">
@@ -208,10 +210,10 @@
 <!-- Section Contact -->
 <section id="contact" class="py-4 bg-light">
     <div class="container">
-        <h2 class="text-center mb-4">Contact</h2>
-        <ul class="text-center">
-            <i class="bi bi-telephone-fill"></i><div> Tél : 07 69 57 49 03 </div>
-            <i class="bi bi-envelope-fill"></i><div> Mail : colleuarthur@gmail.com</div>
+        <h2 class="mb-4">Contact</h2>
+        <ul>
+            <li> Tél : 07 69 57 49 03 </li>
+            <li> Mail : colleuarthur@gmail.com</li>
         </ul>
     </div>
 </section>
