@@ -36,7 +36,7 @@
 <script src="/src/bouton/bouton.js"></script>
 <!-- Contenu du projet -->
 <div class="container my-5">
-    <h1 class="my-4">Projet Réseau : Réaménagement d'une salle de classe</h1>
+    <h1 class="my-5">Projet Réseau : Réaménagement d'une salle de classe</h1>
 
     <div class="row mb-4">
         <div class="col-md-6">
@@ -107,9 +107,30 @@
     </div>
     <div class="col mb-4 text-center">
         <h2>Page de détails d'un film</h2>
-            <img src="../../public/assets/images/Projet_Film/Capture_exemple_détails_film.PNG" style="width: 75% ; height: 75%" alt="Équipements réseau installés"
-                 class="img-fluid rounded">
+        <img src="../../public/assets/images/Projet_Film/Capture_exemple_détails_film.PNG" style="width: 75% ; height: 75%" alt="Équipements réseau installés"
+             class="img-fluid rounded">
     </div>
+    <!---<div class="text-center">
+        <h2 class="text-center mt-5 mb-3">Projet: Site sur le gestion de sanctions</h2>
+        <div class="row ">
+            <div class="row  ">
+                <div class="col-md-6 my-2 ">
+                    <img src="../../public/assets/images/Projet_gestion-sanction/page_connexion_gestion-sanction.png" alt="..." class="img-fluid rounded flex-grow-0" style="height: 75%">
+                </div>
+                <div class="col-md-6 my-2">
+                    <img src="../../public/assets/images/Projet_gestion-sanction/page_creation_compte_gestion-sanction.png" alt="..." class="img-fluid rounded" style="height: 75%">
+                </div>
+            </div>
+            <div class="row  justify-content-center">
+                <div class="col-md-6 my-2">
+                    <img src="../../public/assets/images/Projet_gestion-sanction/page_ajout_eleve_gestion-sanction.png" alt="..." class="img-fluid rounded" style="height: 50%">
+                </div>
+                <div class="col-md-6 my-2">
+                    <img src="../../public/assets/images/Projet_gestion-sanction/page_creation_sanction_gestion-sanction.png" alt="..." class="img-fluid rounded" style="height: 100%">
+                </div>
+            </div>
+        </div>
+    </div>-->
 </div>
 
 <footer class="bg-dark py-3 text-center">
