@@ -71,7 +71,7 @@
 </button>
 <script src="/src/bouton/bouton.js"></script>
 <div class="container">
-    <h4 class="text-center mb-3 mt-5">Certifications en ligne</h4>
+    <h4 class="text-center mb-3 mt-5">oghlhgxqhghqmlcghq</h4>
     <div class="conteneur">
         <div class="box CNIL"><a href="#partie_CNIL"><img  class="image_CNIL"  src="../../public/assets/images/Images_Certifications/CNIL_logo.png" height="150" width="399" alt=""></a></div>
         <div class="box PIX"><a href="#partie_PIX"><img class="image_PIX" src="../../public/assets/images/Images_Certifications/1200px-Pix_logo.svg.png" height="210" width="300" alt=""></a></div>
